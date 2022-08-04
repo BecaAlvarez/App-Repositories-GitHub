@@ -1,0 +1,75 @@
+{
+  "data":[
+    {
+      "id": 471149655,
+      "name": "Analise-de-taxas-de-valores",
+      "owner": {
+        "login": "BecaAlvarez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63008311?v=4"
+      },
+      "html_url": "https://github.com/BecaAlvarez/Analise-de-taxas-de-valores",
+      "description": "Programa analise de taxas de valores",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 520888882,
+      "name": "BusinessCard",
+      "owner": {
+        "login": "BecaAlvarez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63008311?v=4"
+      },
+      "html_url": "https://github.com/BecaAlvarez/BusinessCard",
+      "description": "App de Cartão de Visitas em Kotlin - Santander Bootcamp Mobile Developer",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 341741300,
+      "name": "Jogo-Mega-Sena-em-Python",
+      "owner": {
+        "login": "BecaAlvarez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63008311?v=4"
+      },
+      "html_url": "https://github.com/BecaAlvarez/Jogo-Mega-Sena-em-Python",
+      "description": "Sistema de sorteio de jogos para Mega Sena ",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 500971847,
+      "name": "matches-simulator-api",
+      "owner": {
+        "login": "BecaAlvarez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63008311?v=4"
+      },
+      "html_url": "https://github.com/BecaAlvarez/matches-simulator-api",
+      "description": "Repositório que simula uma API REST para obtenção de partidas",
+      "stargazers_count": 0,
+      "language": "Mardown"
+    },
+    {
+      "id": 340097323,
+      "name": "situacaoacademica_Dict",
+      "owner": {
+        "login": "BecaAlvarez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63008311?v=4"
+      },
+      "html_url": "https://github.com/BecaAlvarez/situacaoacademica_Dict",
+      "description": "Sistema de verificação de situação acadêmica",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 515223782,
+      "name": "soccer-news-api",
+      "owner": {
+        "login": "BecaAlvarez"
+      },
+      "html_url": "https://github.com/BecaAlvarez/soccer-news-api",
+      "description": "API (provida via Github Pages) do App Soccer News",
+      "stargazers_count": 0,
+      "language": null
+    }
+  ]
+}
